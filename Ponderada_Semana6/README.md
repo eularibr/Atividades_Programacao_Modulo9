@@ -1,20 +1,21 @@
 # Atividades_Programacao_Modulo9
 
 # Ponderada de Programação - Tratamento de Dados (Semana 6)
+<div align="center">
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada1.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada2.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%201.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada3.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%202.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada4.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%203.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada5.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%204.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada6.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%205.png)
-
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%206.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada7.png)
+</div>
 
 Código que aplica a média de atestados e colaboradores do gráfico:
 
@@ -83,6 +84,8 @@ export class AppComponent {
 }
 ```
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%207.png)
+<div align="center">
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada8.png)
 
-![Untitled](Ponderada%20de%20Programac%CC%A7a%CC%83o%20-%20Tratamento%20de%20Dados%20(%20ed15e88fd7a944139fad9fe09686f9d6/Untitled%208.png)
+![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponerada9.png)
+</div>

@@ -2,19 +2,52 @@
 
 # Ponderada de Programação - Tratamento de Dados (Semana 6)
 <div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada1.png)
 
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada2.png)
+</div>
 
+As imagens acima, são referentes a uma das partes da estrutura da API do projeto, feita no Visual Studio 2022. O Cid2023Repository é uma classe que implementa a interface ICid2023Repository, destinada a acessar e manipular dados relacionados ao modelo Cid2023 no contexto de uma aplicação Web API usando Entity Framework Core. Esta classe possui métodos assíncronos para recuperar informações sobre registros Cid2023 da base de dados. O método GetAsync retorna uma lista de todos os registros Cid2023 mapeados para Cid2023DTO, enquanto o método GetByUniAsync filtra os registros com base em uma unidade específica.
+
+Além disso, o Cid2023Repository oferece um método adicional, GetColaboradoresAtestadosPorUnidadeAsync, que realiza uma operação de agrupamento na base de dados para contabilizar o número de colaboradores e a quantidade total de atestados por unidade. O resultado é mapeado para um dicionário onde a chave é a unidade e o valor é um objeto UnidadeAtestados, que contém as contagens de colaboradores e atestados correspondentes.
+
+Internamente, a classe mantém uma instância de ConnectionContext para interagir com o banco de dados. Os métodos assíncronos utilizam LINQ para consultar os dados e projetá-los em DTOs apropriados, facilitando o transporte de informações entre a camada de infraestrutura e a camada de aplicação da Web API.
+
+<div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada3.png)
 
+</div>
+
+Essa é a estrutura que estamos seguindo para o nosso projeto:
+
+<div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada4.png)
+
+</div>
+
+Aqui é onde a integração da API pode ser executada
+
+<div align="center">
 
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada5.png)
 
+</div>
+
+<div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada6.png)
 
+</div>
+
+Essa é a tela em que é possível ver como está a nossa API e quais dados estão retornando
+
+<div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada7.png)
+
 </div>
 
 Código que aplica a média de atestados e colaboradores do gráfico:
@@ -85,7 +118,13 @@ export class AppComponent {
 ```
 
 <div align="center">
+  
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponderada8.png)
 
+</div>
+
+<div align="center">
+
 ![Untitled](https://github.com/eularibr/Atividades_Programacao_Modulo9/blob/main/Ponderada_Semana6/assets/Ponerada9.png)
+
 </div>
